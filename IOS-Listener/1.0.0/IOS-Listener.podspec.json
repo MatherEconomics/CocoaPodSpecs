@@ -1,0 +1,21 @@
+{
+  "name": “IOS”-Listener,
+  "version": “1.0.0”,
+  "summary": "IOS analytics provider for the Mather Big Data Platform",
+  "description": "",
+  "homepage": "https://github.com/dougscher/IOS-Listener",
+  "license": "MIT",
+  "authors": {
+    "Doug Scher”: "dscher3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/bright/Shaker.git",
+    "tag": “1.0.0”
+  },
+  "platforms": {
+    "ios": “7.0”
+  },
+  "requires_arc": true,
+  "source_files": "Classes/**/*.{h,m}",
+  "public_header_files": "Classes/**/*.h"
+}
