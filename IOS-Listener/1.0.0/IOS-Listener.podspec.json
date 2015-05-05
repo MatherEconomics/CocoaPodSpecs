@@ -10,7 +10,7 @@
     },
     "source": {
         "git": "https://github.com/dougscher/IOS-Listener",
-        "tag": “1”.0.0
+        "tag": “1.0.0”
     },
     "platforms": {
         "ios": “7.0”
