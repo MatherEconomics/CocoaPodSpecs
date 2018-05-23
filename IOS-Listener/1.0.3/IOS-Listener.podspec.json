@@ -2,7 +2,7 @@
   "name": "IOS-Listener",
   "version": "1.0.3",
   "summary": "IOS analytics client for the Mather Listener Platform",
-  "description": "",
+  "description": "IOS analytics client for the Mather Listener Platform",
   "homepage": "https://github.com/mathereconomics/IOS-Listener",
   "license": "MIT",
   "authors": {
