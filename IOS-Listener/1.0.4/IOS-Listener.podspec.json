@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/MatherEconomics/IOS-Listener",
-    "tag": "master"
+    "tag": "1.0.4"
   },
   "platforms": {
     "ios": "7.0"
