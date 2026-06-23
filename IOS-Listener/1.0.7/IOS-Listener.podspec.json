@@ -1,0 +1,26 @@
+{
+  "name": "IOS-Listener",
+  "version": "1.0.7",
+  "summary": "IOS analytics client for the Mather Listener Platform",
+  "description": "IOS analytics client for the Mather Listener Platform",
+  "homepage": "https://github.com/MatherEconomics/IOS-Listener",
+  "license": "MIT",
+  "authors": {
+    "Doug Scher": "dougscher@mathereconomics.com"
+  },
+  "source": {
+    "git": "https://github.com/MatherEconomics/IOS-Listener.git",
+    "tag": "1.0.7"
+  },
+  "platforms": {
+    "ios": "8.2"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "IOS-Listener": [
+      "Pod/Assets/*.png",
+      "Pod/Assets/PrivacyInfo.xcprivacy"
+    ]
+  }
+}
